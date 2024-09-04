@@ -1,0 +1,14 @@
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\bin\Debug\net8.0\testeEstagio.exe
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\bin\Debug\net8.0\testeEstagio.deps.json
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\bin\Debug\net8.0\testeEstagio.runtimeconfig.json
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\bin\Debug\net8.0\testeEstagio.dll
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\bin\Debug\net8.0\testeEstagio.pdb
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\obj\Debug\net8.0\testeEstagio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\obj\Debug\net8.0\testeEstagio.AssemblyInfoInputs.cache
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\obj\Debug\net8.0\testeEstagio.AssemblyInfo.cs
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\obj\Debug\net8.0\testeEstagio.csproj.CoreCompileInputs.cache
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\obj\Debug\net8.0\testeEstagio.dll
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\obj\Debug\net8.0\refint\testeEstagio.dll
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\obj\Debug\net8.0\testeEstagio.pdb
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\obj\Debug\net8.0\testeEstagio.genruntimeconfig.cache
+c:\Users\5952826\source\repos\testeEstagio\testeEstagio\obj\Debug\net8.0\ref\testeEstagio.dll
